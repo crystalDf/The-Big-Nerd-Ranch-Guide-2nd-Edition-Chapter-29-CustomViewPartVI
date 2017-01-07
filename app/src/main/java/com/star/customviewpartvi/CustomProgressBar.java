@@ -122,4 +122,5 @@ public class CustomProgressBar extends View {
             canvas.drawArc(mRectF, -90, mProgress, false, mPaint);
         }
     }
+
 }
